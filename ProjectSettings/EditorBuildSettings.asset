@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SCENE/main.unity
+    guid: 3941b79a7d03aec4da156d170b5099e3
+  - enabled: 1
+    path: Assets/SCENE/search.unity
+    guid: b65ccae0104782a428ca01aaa4467d21
+  - enabled: 1
+    path: Assets/SCENE/internetPackage.unity
+    guid: 85e9204f8aa84e44f87622ac7f5bd524
+  - enabled: 1
+    path: Assets/SCENE/DetailPaket.unity
+    guid: 2c3872597fa80994ea1464d4edd8a337
+  - enabled: 1
+    path: Assets/SCENE/kuota.unity
+    guid: 67b96a11a53887449a25915d6859a2be
+  - enabled: 1
+    path: Assets/SCENE/MetodePembayaran.unity
+    guid: 4f97f809207067f49a68566a2c326e8a
+  - enabled: 1
+    path: Assets/SCENE/PembayaranBerhasil.unity
+    guid: e40472b57b08b094d8ad86feb77d1166
+  m_configObjects: {}
